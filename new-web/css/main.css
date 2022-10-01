@@ -29,25 +29,25 @@
 .nav-item :hover{
     background: rgba(255, 255, 255, 0.2);
 }
-.banner{
+.header-center{
     color: #fff;
     text-align: center;
     margin-top: 150px;
 }
-.banner h1{
+.header-center h1{
     margin: 0 0 10px 0;
     font-size: 64px;
     font-weight: 700;
     line-height: 56px;
     text-shadow: -1px 0 2px #2f4d5a;
 }
-.banner h3{
+.header-center h3{
     margin-bottom: 50px;
     font-size: 20px;
     font-weight: 700;
     text-shadow: -1px 0 2px #2f4d5a;
 }
-.banner i{
+.header-center i{
     font-size: 36px;
     display: inline-block;
     padding: 14px 0;
@@ -57,4 +57,16 @@
     height: 64px;
     text-align: center;
     border: 2px solid #fff;
+}
+.banner-left a{
+    display: inline-block;
+    background: #67b0d1;
+    padding: 6px 44px 8px 30px;
+    color: #fff;
+    border-radius: 50px;
+    text-decoration: none;
+}
+.banner-right-in i{
+    font-size: 40px;
+    color: #67b0d1;
 }
