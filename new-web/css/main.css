@@ -83,5 +83,20 @@
     background: #fff;
     box-shadow: 0 0 29px 0 rgb(68 88 144 / 12%);
     border-radius: 10px;
-    /* padding: 30px 30px; */
+}
+.ser-num span i{
+    font-size: 45px;
+    color: #67b0d1;
+}
+.ser-num span{
+    font-size: 50px;
+}
+.ser-num p{
+    padding: 0 50px ;
+}
+.ser-num-full{
+    background-color: #f4f9fc;
+}
+.service-num{
+    margin-left: -100px;
 }
